@@ -13,6 +13,7 @@
     },
     "files": [
         "ng-semantic.ts",
+        "index.ts",
         "typings/index.d.ts"
     ]
 }
